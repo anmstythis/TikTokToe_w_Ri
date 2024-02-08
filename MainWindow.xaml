@@ -24,5 +24,7 @@
         <Image x:Name="riwon" HorizontalAlignment="Left" Height="221" Margin="52,119,0,0" VerticalAlignment="Top" Width="218" OpacityMask="#FF111111" Source="/ritsu-won.jpg" Stretch="Fill" Visibility="Hidden"/>
         <Image x:Name="riconf" HorizontalAlignment="Left" Height="221" Margin="52,119,0,0" VerticalAlignment="Top" Width="218" OpacityMask="#FF111111" Source="/ritsu-confused.jpg" Stretch="Fill" Visibility="Hidden" MouseWheel="ristart_MouseWheel"/>
         <TextBlock x:Name="diawind" HorizontalAlignment="Left" Margin="38,54,0,0" TextWrapping="Wrap" Text="Привет, я Рицу! Давай сыграем?" VerticalAlignment="Top" Height="52" Width="246" TextAlignment="Center" FontFamily="Comic Sans MS" FontSize="16"/>
+        <CheckBox x:Name="swtchx" Content="Играть за X" HorizontalAlignment="Left" Margin="642,333,0,0" VerticalAlignment="Top" Height="36" Width="148" FontSize="22" FontFamily="Comic Sans MS" Background="#FFB3D4F1" IsChecked="True" Visibility="Hidden" Click="swtch_Checked"/>
+        <CheckBox x:Name="swtcho" Content="Играть за O" HorizontalAlignment="Left" Margin="642,368,0,0" VerticalAlignment="Top" Height="36" Width="148" FontSize="22" FontFamily="Comic Sans MS" Background="#FFB3D4F1" IsChecked="False" Visibility="Hidden" Click="swtch_Checked"/>
     </Grid>
 </Window>
