@@ -1,0 +1,28 @@
+﻿<Window x:Class="крестики_нолики.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:крестики_нолики"
+        mc:Ignorable="d"
+        Title="Игра Крестики-нолики" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="_1_button" Content="" HorizontalAlignment="Left" Margin="321,30,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="_1_button_Click" FontSize="72"/>
+        <Button x:Name="_2_button" Content="" HorizontalAlignment="Left" Margin="421,30,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="_1_button_Click" FontSize="72"/>
+        <Button x:Name="_3_button" Content="" HorizontalAlignment="Left" Margin="521,30,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="_1_button_Click" FontSize="72"/>
+        <Button x:Name="_4_button" Content="" HorizontalAlignment="Left" Margin="321,135,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="_1_button_Click" FontSize="72"/>
+        <Button x:Name="_5_button" Content="" HorizontalAlignment="Left" Margin="421,135,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="_1_button_Click" FontSize="72"/>
+        <Button x:Name="_6_button" Content="" HorizontalAlignment="Left" Margin="521,135,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="_1_button_Click" FontSize="72"/>
+        <Button x:Name="_7_button" HorizontalAlignment="Left" Margin="321,240,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="_1_button_Click" FontSize="72"></Button>
+        <Button x:Name="_8_button" Content="" HorizontalAlignment="Left" Margin="421,240,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="_1_button_Click" FontSize="72"/>
+        <Button x:Name="_9_button" Content="" HorizontalAlignment="Left" Margin="521,240,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="_1_button_Click" FontSize="72"/>
+        <Button x:Name="startgame" Content="Давай" HorizontalAlignment="Left" Margin="52,356,0,0" VerticalAlignment="Top" Width="218" Height="35" Background="#FFB3D4F1" BorderBrush="#FF0D0B3A" Foreground="Black" FontFamily="Comic Sans MS" FontSize="22" FontWeight="ExtraBold" FontStretch="Condensed" Click="startgame_Click"/>
+        <Button x:Name="resumegame" Content="Заново!" HorizontalAlignment="Left" Margin="52,356,0,0" VerticalAlignment="Top" Width="218" Height="35" Background="#FFB3D4F1" BorderBrush="#FF0D0B3A" Foreground="Black" FontFamily="Comic Sans MS" FontSize="22" FontWeight="ExtraBold" FontStretch="Condensed" Visibility="Hidden" IsEnabled="False" Click="resumegame_Click"/>
+        <Image x:Name="ristart" HorizontalAlignment="Left" Height="221" Margin="52,119,0,0" VerticalAlignment="Top" Width="218" OpacityMask="#FF111111" Source="/ritsu-start.jpg" Stretch="Fill" MouseWheel="ristart_MouseWheel"/>
+        <Image x:Name="rineutral" HorizontalAlignment="Left" Height="221" Margin="52,119,0,0" VerticalAlignment="Top" Width="218" OpacityMask="#FF111111" Source="/ritsu-neutal.jpg" Stretch="Fill" Visibility="Hidden"/>
+        <Image x:Name="rilost" HorizontalAlignment="Left" Height="221" Margin="52,119,0,0" VerticalAlignment="Top" Width="218" OpacityMask="#FF111111" Source="/ritsu-lost.jpg" Stretch="Fill" Visibility="Hidden"/>
+        <Image x:Name="riwon" HorizontalAlignment="Left" Height="221" Margin="52,119,0,0" VerticalAlignment="Top" Width="218" OpacityMask="#FF111111" Source="/ritsu-won.jpg" Stretch="Fill" Visibility="Hidden"/>
+        <Image x:Name="riconf" HorizontalAlignment="Left" Height="221" Margin="52,119,0,0" VerticalAlignment="Top" Width="218" OpacityMask="#FF111111" Source="/ritsu-confused.jpg" Stretch="Fill" Visibility="Hidden" MouseWheel="ristart_MouseWheel"/>
+        <TextBlock x:Name="diawind" HorizontalAlignment="Left" Margin="38,54,0,0" TextWrapping="Wrap" Text="Привет, я Рицу! Давай сыграем?" VerticalAlignment="Top" Height="52" Width="246" TextAlignment="Center" FontFamily="Comic Sans MS" FontSize="16"/>
+    </Grid>
+</Window>

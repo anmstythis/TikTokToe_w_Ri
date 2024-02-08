@@ -1,0 +1,20 @@
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\крестики нолики_MarkupCompile.cache
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\крестики нолики_MarkupCompile.lref
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\bin\Debug\net8.0-windows\крестики нолики.exe
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\bin\Debug\net8.0-windows\крестики нолики.deps.json
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\bin\Debug\net8.0-windows\крестики нолики.runtimeconfig.json
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\bin\Debug\net8.0-windows\крестики нолики.dll
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\bin\Debug\net8.0-windows\крестики нолики.pdb
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\крестики нолики.g.resources
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\крестики нолики.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\крестики нолики.AssemblyInfoInputs.cache
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\крестики нолики.AssemblyInfo.cs
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\крестики нолики.csproj.CoreCompileInputs.cache
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\крестики нолики.dll
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\refint\крестики нолики.dll
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\крестики нолики.pdb
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\крестики нолики.genruntimeconfig.cache
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\крестики нолики\крестики нолики\obj\Debug\net8.0-windows\ref\крестики нолики.dll

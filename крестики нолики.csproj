@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>крестики_нолики</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="photo_2024-02-01_11-50-48.jpg" />
+    <None Remove="ritsu-confused.jpg" />
+    <None Remove="ritsu-lost.jpg" />
+    <None Remove="ritsu-neutal.jpg" />
+    <None Remove="ritsu-start.jpg" />
+    <None Remove="ritsu-won.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="ritsu-confused.jpg" />
+    <Resource Include="ritsu-lost.jpg" />
+    <Resource Include="ritsu-neutal.jpg" />
+    <Resource Include="ritsu-start.jpg" />
+    <Resource Include="ritsu-won.jpg" />
+  </ItemGroup>
+
+</Project>
